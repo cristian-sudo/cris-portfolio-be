@@ -1,0 +1,5 @@
+title: 'Fun facts'
+revisions: false
+date_behavior:
+  past: public
+  future: private
