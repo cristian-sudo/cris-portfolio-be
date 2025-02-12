@@ -1,0 +1,48 @@
+title: Quote
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: ru_title
+            field:
+              type: text
+              display: 'RU Title'
+              width: 33
+          -
+            handle: it_title
+            field:
+              type: text
+              display: 'IT Title'
+              width: 33
+          -
+            handle: ro_title
+            field:
+              type: text
+              display: 'RO Title'
+              width: 33
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: author
+            field:
+              type: text
+              display: Author

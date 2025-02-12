@@ -2,3 +2,12 @@ name: criss
 super: true
 id: a5337063-feeb-476b-86d0-85dfe861c466
 password_hash: $2y$12$E5BRfFPuje4u7LSZwsoA5.JTPodBxpRD8j4QvjY2x7yZ3TiKAaBxC
+preferences:
+  collections:
+    projects:
+      after_save: create_another
+    skils:
+      after_save: create_another
+  taxonomies:
+    skils:
+      after_save: create_another

@@ -1,0 +1,50 @@
+title: Skil
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: ro_title
+            field:
+              type: text
+              display: 'RO Title'
+              width: 33
+          -
+            handle: it_title
+            field:
+              type: text
+              display: 'IT Title'
+              width: 33
+          -
+            handle: ru_title
+            field:
+              type: text
+              display: 'RU Title'
+              width: 33
+          -
+            handle: skils
+            field:
+              taxonomies:
+                - skils
+              type: terms
+              display: Skils
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
