@@ -8,6 +8,8 @@ preferences:
       after_save: create_another
     skils:
       after_save: create_another
+    pages:
+      after_save: continue_editing
   taxonomies:
     skils:
       after_save: create_another
