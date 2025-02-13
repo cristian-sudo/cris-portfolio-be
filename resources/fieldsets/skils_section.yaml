@@ -1,0 +1,38 @@
+title: 'Skils Section'
+fields:
+  -
+    handle: title
+    field:
+      type: text
+      display: Title
+  -
+    handle: ru_title
+    field:
+      type: text
+      display: 'RU Title'
+      width: 33
+  -
+    handle: ro_title
+    field:
+      type: text
+      display: 'RO Title'
+      width: 33
+  -
+    handle: it_title
+    field:
+      type: text
+      display: 'IT Title'
+      width: 33
+  -
+    handle: image
+    field:
+      container: assets
+      type: assets
+      display: Image
+  -
+    handle: skils
+    field:
+      collections:
+        - skils
+      type: entries
+      display: Skils

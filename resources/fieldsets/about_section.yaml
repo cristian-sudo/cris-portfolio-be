@@ -1,0 +1,59 @@
+title: 'About Section'
+fields:
+  -
+    handle: title
+    field:
+      type: text
+      display: Title
+  -
+    handle: ro_title
+    field:
+      type: text
+      display: 'RO Title'
+      width: 33
+  -
+    handle: it_title
+    field:
+      type: text
+      display: 'IT Title'
+      width: 33
+  -
+    handle: ru_title
+    field:
+      type: text
+      display: 'RU Title'
+      width: 33
+  -
+    handle: description
+    field:
+      type: textarea
+      display: Description
+  -
+    handle: ru_description
+    field:
+      type: textarea
+      display: 'RU Description'
+      width: 33
+  -
+    handle: ro_description
+    field:
+      type: textarea
+      display: 'RO Description'
+      width: 33
+  -
+    handle: it_description
+    field:
+      type: textarea
+      display: 'IT Description'
+      width: 33
+  -
+    handle: link
+    field:
+      type: link
+      display: Link
+  -
+    handle: image
+    field:
+      container: assets
+      type: assets
+      display: Image

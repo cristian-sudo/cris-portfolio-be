@@ -1,0 +1,58 @@
+title: Projects
+fields:
+  -
+    handle: title
+    field:
+      type: text
+      display: Title
+  -
+    handle: ru_title
+    field:
+      type: text
+      display: 'RU Title'
+  -
+    handle: ro_title
+    field:
+      type: text
+      display: 'RO Title'
+  -
+    handle: it_title
+    field:
+      type: text
+      display: 'IT Title'
+  -
+    handle: button_label
+    field:
+      type: text
+      display: 'Button Label'
+  -
+    handle: ru_button_label
+    field:
+      type: text
+      display: 'RU Button Label'
+      width: 33
+  -
+    handle: ro_button_label
+    field:
+      type: text
+      display: 'RO Button Label'
+      width: 33
+  -
+    handle: it_button_label
+    field:
+      type: text
+      display: 'IT Button Label'
+      width: 33
+  -
+    handle: button_link
+    field:
+      type: link
+      display: 'Button Link'
+  -
+    handle: projects
+    field:
+      create: false
+      collections:
+        - projects
+      type: entries
+      display: Projects
