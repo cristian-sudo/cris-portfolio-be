@@ -1,0 +1,29 @@
+title: 'Fun Facts Section'
+fields:
+  -
+    handle: title
+    field:
+      type: text
+      display: Title
+  -
+    handle: ru_title
+    field:
+      type: text
+      display: 'RU Title'
+  -
+    handle: ro_title
+    field:
+      type: text
+      display: 'RO Title'
+  -
+    handle: it_title
+    field:
+      type: text
+      display: 'IT Title'
+  -
+    handle: facts
+    field:
+      collections:
+        - fun_facts
+      type: entries
+      display: Facts

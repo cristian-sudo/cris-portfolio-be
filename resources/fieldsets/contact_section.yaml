@@ -1,0 +1,80 @@
+title: 'Contact Section'
+fields:
+  -
+    handle: title
+    field:
+      type: text
+      display: Title
+  -
+    handle: ru_title
+    field:
+      type: text
+      display: 'RU Title'
+      width: 33
+  -
+    handle: ro_title
+    field:
+      type: text
+      display: 'RO Title'
+      width: 33
+  -
+    handle: it_title
+    field:
+      type: text
+      display: 'IT Title'
+      width: 33
+  -
+    handle: description
+    field:
+      type: textarea
+      display: Description
+  -
+    handle: ru_description
+    field:
+      type: textarea
+      display: 'RU Description'
+      width: 33
+  -
+    handle: ro_description
+    field:
+      type: textarea
+      display: 'RO Description'
+      width: 33
+  -
+    handle: it_description
+    field:
+      type: textarea
+      display: 'IT Description'
+      width: 33
+  -
+    handle: contact_me_label
+    field:
+      type: text
+      display: 'Contact me label'
+  -
+    handle: ru_contact_me_label
+    field:
+      type: text
+      display: 'RU Contact me label'
+  -
+    handle: ro_contact_me_label
+    field:
+      type: text
+      display: 'RO Contact me label'
+  -
+    handle: it_contact_me_label
+    field:
+      type: text
+      display: 'IT Contact me label'
+  -
+    handle: discord
+    field:
+      type: text
+      display: Discord
+      width: 50
+  -
+    handle: email
+    field:
+      type: text
+      display: Email
+      width: 50

@@ -1,0 +1,9 @@
+title: 'Quote Section'
+fields:
+  -
+    handle: quotes
+    field:
+      collections:
+        - quotes
+      type: entries
+      display: Quotes

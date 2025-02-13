@@ -1,0 +1,26 @@
+title: 'About Me Long'
+fields:
+  -
+    handle: title
+    field:
+      remove_empty_nodes: false
+      type: bard
+      display: Title
+  -
+    handle: ru_title
+    field:
+      remove_empty_nodes: false
+      type: bard
+      display: 'RU Title'
+  -
+    handle: ro_title
+    field:
+      remove_empty_nodes: false
+      type: bard
+      display: 'RO Title'
+  -
+    handle: it_title
+    field:
+      remove_empty_nodes: false
+      type: bard
+      display: 'IT Title'
