@@ -13,5 +13,11 @@ tags:
   - react
   - aws
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739378400
+updated_at: 1739810452
+ro_title: 'RO Adaptavist'
+it_title: 'IT Adaptavist'
+ru_title: 'RU Adaptavist'
+ro_description: 'RO Adaptavist main website'
+it_description: 'IT Adaptavist main website'
+ru_description: 'RU Adaptavist main website'
 ---

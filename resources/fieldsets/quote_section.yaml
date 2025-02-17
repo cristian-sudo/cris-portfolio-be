@@ -7,3 +7,4 @@ fields:
         - quotes
       type: entries
       display: Quotes
+      max_items: 1

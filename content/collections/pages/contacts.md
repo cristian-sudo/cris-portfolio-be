@@ -4,7 +4,7 @@ blueprint: page
 title: Contacts
 author: a5337063-feeb-476b-86d0-85dfe861c466
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739450099
+updated_at: 1739540100
 page_builder:
   -
     id: m73bn5i9
@@ -29,4 +29,8 @@ seo_nofollow: false
 seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
+en_title: Contacts
+ru_title: Contacts
+ro_title: Contacts
+it_title: Contacts
 ---

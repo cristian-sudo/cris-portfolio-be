@@ -29,6 +29,7 @@ fields:
       container: assets
       type: assets
       display: Image
+      max_files: 1
   -
     handle: skils
     field:

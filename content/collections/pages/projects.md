@@ -4,7 +4,7 @@ blueprint: page
 title: Projects
 author: a5337063-feeb-476b-86d0-85dfe861c466
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739450026
+updated_at: 1739540086
 page_builder:
   -
     id: m73bm845
@@ -26,4 +26,8 @@ seo_nofollow: false
 seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
+en_title: Projects
+ru_title: Projects
+ro_title: Projects
+it_title: Projects
 ---
