@@ -57,3 +57,4 @@ fields:
       container: assets
       type: assets
       display: Image
+      max_files: 1

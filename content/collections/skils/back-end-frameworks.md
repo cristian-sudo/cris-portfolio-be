@@ -7,5 +7,8 @@ skils:
   - laravel
   - nestjs
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739377774
+updated_at: 1739812902
+ro_title: 'RO Back-End Frameworks'
+it_title: 'IT Back-End Frameworks'
+ru_title: 'RU Back-End Frameworks'
 ---

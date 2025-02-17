@@ -4,7 +4,7 @@ blueprint: page
 title: About
 author: a5337063-feeb-476b-86d0-85dfe861c466
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739449986
+updated_at: 1739540115
 page_builder:
   -
     id: m73b2bvm
@@ -72,4 +72,8 @@ seo_nofollow: false
 seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
+en_title: 'About Me'
+ru_title: 'About Me'
+ro_title: 'About Me'
+it_title: 'About Me'
 ---

@@ -54,6 +54,7 @@ fields:
       container: assets
       type: assets
       display: Image
+      max_files: 1
   -
     handle: under_image_text
     field:
