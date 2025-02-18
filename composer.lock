@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f484093c851bbb56eacc0f0a53e029ab",
+    "content-hash": "665bcf922c68bc19f24f39bb608a4588",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -5002,53 +5002,6 @@
                 }
             ],
             "time": "2025-02-11T12:38:48+00:00"
-        },
-        {
-            "name": "studio1902/statamic-peak-tools",
-            "version": "v7.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/studio1902/statamic-peak-tools.git",
-                "reference": "810a6bcc9d86a8264cd1578f4cb19ae800d5b520"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/studio1902/statamic-peak-tools/zipball/810a6bcc9d86a8264cd1578f4cb19ae800d5b520",
-                "reference": "810a6bcc9d86a8264cd1578f4cb19ae800d5b520",
-                "shasum": ""
-            },
-            "require": {
-                "statamic/cms": "^5.0"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "Studio1902\\PeakTools\\ServiceProvider"
-                    ]
-                },
-                "statamic": {
-                    "name": "Statamic Peak Tools",
-                    "description": "Statamic Peak Tools addon"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Studio1902\\PeakTools\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "support": {
-                "issues": "https://github.com/studio1902/statamic-peak-tools/issues",
-                "source": "https://github.com/studio1902/statamic-peak-tools/tree/v7.1.0"
-            },
-            "funding": [
-                {
-                    "url": "https://github.com/studio1902",
-                    "type": "github"
-                }
-            ],
-            "time": "2025-02-05T09:25:06+00:00"
         },
         {
             "name": "symfony/console",
