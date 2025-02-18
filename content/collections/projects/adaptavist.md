@@ -5,7 +5,7 @@ title: Adaptavist
 description: 'Adaptavist main website'
 link: 'https://adaptavist.com'
 image:
-  - robot-illustration.webp
+  - adaptavist.png
 tags:
   - nextjs
   - tailwindcss
@@ -13,11 +13,11 @@ tags:
   - react
   - aws
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739810452
-ro_title: 'RO Adaptavist'
-it_title: 'IT Adaptavist'
-ru_title: 'RU Adaptavist'
-ro_description: 'RO Adaptavist main website'
-it_description: 'IT Adaptavist main website'
+updated_at: 1739887254
+ro_title: Adaptavist
+it_title: Adaptavist
+ru_title: Adaptavist
+ro_description: 'Site-ul principal Adaptavist'
+it_description: 'Sito principale Adaptavist'
 ru_description: 'RU Adaptavist main website'
 ---

@@ -4,8 +4,6 @@ blueprint: project
 title: 'Ceres Website'
 description: 'Ceres.org website rebuild'
 link: 'https://ceres.org'
-image:
-  - preview16.jpg
 tags:
   - laravel
   - livewire
@@ -15,11 +13,13 @@ tags:
   - mysql
   - salesforce
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739810464
-ro_title: 'RO Ceres Website'
-it_title: 'IT Ceres Website'
-ru_title: 'RU Ceres Website'
-ro_description: 'RO Ceres.org website rebuild'
-it_description: 'IT Ceres.org website rebuild'
-ru_description: 'RU Ceres.org website rebuild'
+updated_at: 1739887441
+ro_title: 'Ceres Website'
+it_title: 'Ceres Website'
+ru_title: 'Ceres Website'
+ro_description: 'Reconstrucția site-ului Ceres.org'
+it_description: 'Ricostruzione del sito Ceres.org'
+ru_description: 'Реконструкция сайта Ceres.org'
+image:
+  - ceres.png
 ---
