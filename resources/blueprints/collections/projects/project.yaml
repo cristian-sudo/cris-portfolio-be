@@ -80,6 +80,6 @@ tabs:
             handle: tags
             field:
               taxonomies:
-                - skils
+                - skills
               type: terms
               display: Tags

@@ -1,0 +1,16 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: github
+            field:
+              type: link
+              display: Github
+          -
+            handle: linkedin
+            field:
+              type: link
+              display: Linkedin

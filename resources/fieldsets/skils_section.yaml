@@ -1,4 +1,4 @@
-title: 'Skils Section'
+title: 'Skills Section'
 fields:
   -
     handle: title
@@ -31,9 +31,9 @@ fields:
       display: Image
       max_files: 1
   -
-    handle: skils
+    handle: skills
     field:
       collections:
-        - skils
+        - skills
       type: entries
-      display: Skils
+      display: Skills

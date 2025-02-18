@@ -47,14 +47,37 @@ fields:
       display: 'IT Description'
       width: 33
   -
-    handle: link
-    field:
-      type: link
-      display: Link
-  -
     handle: image
     field:
       container: assets
       type: assets
       display: Image
       max_files: 1
+  -
+    handle: button_label
+    field:
+      type: text
+      display: 'Button Label'
+  -
+    handle: ru_button_label
+    field:
+      type: text
+      display: 'RU Button Label'
+      width: 33
+  -
+    handle: ro_button_label
+    field:
+      type: text
+      display: 'RO Button Label'
+      width: 33
+  -
+    handle: it_button_label
+    field:
+      type: text
+      display: 'IT Button Label'
+      width: 33
+  -
+    handle: link
+    field:
+      type: link
+      display: Link

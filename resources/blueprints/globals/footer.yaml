@@ -1,0 +1,72 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: name
+            field:
+              type: text
+              display: Name
+          -
+            handle: email
+            field:
+              type: text
+              display: Email
+          -
+            handle: job_title
+            field:
+              type: text
+              display: 'Job Title'
+          -
+            handle: ru_job_title
+            field:
+              type: text
+              display: 'RU Job Title'
+              width: 33
+          -
+            handle: ro_job_title
+            field:
+              type: text
+              display: 'RO Job Title'
+              width: 33
+          -
+            handle: it_job_title
+            field:
+              type: text
+              display: 'IT Job Title'
+              width: 33
+          -
+            handle: media_label
+            field:
+              type: text
+              display: 'Media Label'
+          -
+            handle: ru_media_label
+            field:
+              type: text
+              display: 'RU Media Label'
+              width: 33
+          -
+            handle: ro_media_label
+            field:
+              type: text
+              display: 'RO Media Label'
+              width: 33
+          -
+            handle: it_media_label
+            field:
+              type: text
+              display: 'IT Media Label'
+              width: 33
+          -
+            handle: discord
+            field:
+              type: link
+              display: Discord
+          -
+            handle: github
+            field:
+              type: link
+              display: Github

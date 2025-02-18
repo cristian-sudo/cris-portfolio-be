@@ -4,7 +4,7 @@ blueprint: page
 title: About
 author: a5337063-feeb-476b-86d0-85dfe861c466
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739540115
+updated_at: 1739877274
 page_builder:
   -
     id: m73b2bvm
