@@ -69,16 +69,6 @@ tabs:
                 - required
               display: Slug
           -
-            handle: parent
-            field:
-              type: entries
-              collections:
-                - pages
-              max_items: 1
-              listable: false
-              localizable: true
-              display: Parent
-          -
             handle: en_title
             field:
               type: text
@@ -98,3 +88,12 @@ tabs:
             field:
               type: text
               display: 'IT Title'
+          -
+            handle: parent
+            field:
+              type: entries
+              collections:
+                - pages
+              max_items: 1
+              listable: false
+              localizable: true

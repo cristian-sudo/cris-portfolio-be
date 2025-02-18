@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739811140
+updated_at: 1739880481
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -52,11 +52,11 @@ page_builder:
   -
     id: m73ayfoh
     title: Skills
-    ru_title: Skills
-    ro_title: Skills
-    it_title: Skills
+    ru_title: 'RU Skills'
+    ro_title: 'RO Skills'
+    it_title: 'IT Skills'
     image: robot-illustration.webp
-    skils:
+    skills:
       - 42799630-7dfc-46d2-8754-d88512a2a76c
       - 0ae66d4e-99c8-4e75-91e6-8d6d9cf71b6a
       - 16b669ee-ce56-4741-8c83-c70ad2f6e7f8
@@ -69,31 +69,35 @@ page_builder:
   -
     id: m73az5oa
     title: 'About Me'
-    ro_title: 'About Me'
-    it_title: 'About Me'
-    ru_title: 'About Me'
+    ro_title: 'RO About Me'
+    it_title: 'IT About Me'
+    ru_title: 'RU About Me'
     description: "I'm a web developer with a passion for creating beautiful and functional websites. I have experience with a variety of tools and technologies, and I'm always looking to learn more."
-    ru_description: "I'm a web developer with a passion for creating beautiful and functional websites. I have experience with a variety of tools and technologies, and I'm always looking to learn more."
-    ro_description: "I'm a web developer with a passion for creating beautiful and functional websites. I have experience with a variety of tools and technologies, and I'm always looking to learn more."
-    it_description: "I'm a web developer with a passion for creating beautiful and functional websites. I have experience with a variety of tools and technologies, and I'm always looking to learn more."
+    ru_description: "RU I'm a web developer with a passion for creating beautiful and functional websites. I have experience with a variety of tools and technologies, and I'm always looking to learn more."
+    ro_description: "RO I'm a web developer with a passion for creating beautiful and functional websites. I have experience with a variety of tools and technologies, and I'm always looking to learn more."
+    it_description: "IT I'm a web developer with a passion for creating beautiful and functional websites. I have experience with a variety of tools and technologies, and I'm always looking to learn more."
     link: 'entry::2cc5aab9-0663-4520-bbe1-34f29abbf839'
     image: robot-illustration.webp
     type: about_me_section
     enabled: true
+    button_label: 'EN Contact me'
+    ru_button_label: 'RU Contact me'
+    ro_button_label: 'RO Contact me'
+    it_button_label: 'IT Contact me'
   -
     id: m73b0d0b
-    title: Contacts
-    ru_title: Contacts
-    ro_title: Contacts
-    it_title: Contacts
-    description: 'I’m interested in freelance opportunities. However, if you have other requests or questions, don’t hesitate to contact me.'
-    ru_description: 'I’m interested in freelance opportunities. However, if you have other requests or questions, don’t hesitate to contact me.'
-    ro_description: 'I’m interested in freelance opportunities. However, if you have other requests or questions, don’t hesitate to contact me.'
-    it_description: 'I’m interested in freelance opportunities. However, if you have other requests or questions, don’t hesitate to contact me.'
-    contact_me_label: 'Contact Me'
-    ru_contact_me_label: 'Contact Me'
-    ro_contact_me_label: 'Contact Me'
-    it_contact_me_label: 'Contact Me'
+    title: 'EN Contacts'
+    ru_title: 'RU Contacts'
+    ro_title: 'RO Contacts'
+    it_title: 'IT Contacts'
+    description: 'EN I’m interested in freelance opportunities. However, if you have other requests or questions, don’t hesitate to contact me.'
+    ru_description: 'RU I’m interested in freelance opportunities. However, if you have other requests or questions, don’t hesitate to contact me.'
+    ro_description: 'RO I’m interested in freelance opportunities. However, if you have other requests or questions, don’t hesitate to contact me.'
+    it_description: 'IT I’m interested in freelance opportunities. However, if you have other requests or questions, don’t hesitate to contact me.'
+    contact_me_label: 'EN Contact Me'
+    ru_contact_me_label: 'RU Contact Me'
+    ro_contact_me_label: 'RO Contact Me'
+    it_contact_me_label: 'IT Contact Me'
     discord: cr1sty
     email: cplop95@gmail.com
     type: contact_section

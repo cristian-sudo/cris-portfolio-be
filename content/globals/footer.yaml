@@ -1,0 +1,14 @@
+title: Footer
+data:
+  name: 'Cristian Plop'
+  email: cplop21@gmail.com
+  job_title: 'Web Developer'
+  ru_job_title: 'RU Web Developer'
+  ro_job_title: 'RO Web Developer'
+  it_job_title: 'IT Web Developer'
+  media_label: Media
+  ru_media_label: 'RU Media'
+  ro_media_label: 'RO Media'
+  it_media_label: 'IT Media'
+  discord: 'http://cris-portfolio-be.test/cp/globals/footer'
+  github: 'http://cris-portfolio-be.test/cp/globals/footer'
