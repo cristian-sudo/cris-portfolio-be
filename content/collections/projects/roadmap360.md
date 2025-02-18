@@ -5,7 +5,7 @@ title: Roadmap360
 description: 'Assessment tool'
 link: 'https://roadmap360.ceres.org'
 image:
-  - robot-illustration.webp
+  - roadmap.png
 tags:
   - laravel
   - livewire
@@ -14,11 +14,11 @@ tags:
   - stripe
   - salesforce
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739810470
-ro_title: 'RO Roadmap360'
-it_title: 'IT Roadmap360'
-ru_title: 'RU Roadmap360'
-ro_description: 'RO Assessment tool'
-it_description: 'IT Assessment tool'
-ru_description: 'RU Assessment tool'
+updated_at: 1739887312
+ro_title: Roadmap360
+it_title: Roadmap360
+ru_title: Roadmap360
+ro_description: 'Instrument de evaluare'
+it_description: 'Strumento di valutazione'
+ru_description: 'Инструмент оценки'
 ---

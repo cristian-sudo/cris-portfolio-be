@@ -25,6 +25,7 @@ return [
             'skills' => true,
             'projects' => true,
             'quotes' => true,
+            'fun_facts' => true,
         ],
         'navs' => true,
         'taxonomies' => true,
