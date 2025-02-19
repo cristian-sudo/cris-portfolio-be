@@ -26,7 +26,9 @@ return [
             'projects' => true,
             'quotes' => true,
             'fun_facts' => true,
-            'blogs' => true,
+            'blogs' => [
+                'allowed_filters' => ['slug']
+            ],
         ],
         'navs' => true,
         'taxonomies' => true,
