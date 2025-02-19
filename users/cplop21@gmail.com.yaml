@@ -11,3 +11,7 @@ preferences:
   taxonomies:
     skills:
       after_save: create_another
+    blog_category:
+      after_save: create_another
+    blog_tags:
+      after_save: create_another
