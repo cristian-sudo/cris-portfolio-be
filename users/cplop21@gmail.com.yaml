@@ -1,7 +1,7 @@
 name: criss
 super: true
 id: a5337063-feeb-476b-86d0-85dfe861c466
-password_hash: $2y$12$E5BRfFPuje4u7LSZwsoA5.JTPodBxpRD8j4QvjY2x7yZ3TiKAaBxC
+password_hash: $2y$12$/43dJPruPXxsPCJHMQpEfuXT6ck4PNF4Bz4Tq.ltixcKsEB9igkvK
 preferences:
   collections:
     skills:
