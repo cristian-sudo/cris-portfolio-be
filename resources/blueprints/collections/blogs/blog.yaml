@@ -13,18 +13,33 @@ tabs:
               validate:
                 - required
           -
-            handle: content
-            field:
-              remove_empty_nodes: false
-              type: bard
-              display: Content
-          -
             handle: hero_image
             field:
               max_files: 1
               container: assets
               type: assets
               display: 'Hero Image'
+          -
+            handle: content
+            field:
+              remove_empty_nodes: false
+              type: bard
+              display: Content
+              buttons:
+                - h2
+                - h3
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+                - quote
+                - anchor
+                - image
+                - table
+                - code
+                - codeblock
+              container: assets
   sidebar:
     display: Sidebar
     sections:
@@ -55,3 +70,11 @@ tabs:
             field:
               type: users
               display: Author
+          -
+            handle: date
+            field:
+              type: date
+              required: true
+              default: now
+              validate:
+                - required
