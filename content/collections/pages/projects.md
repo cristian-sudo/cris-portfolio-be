@@ -4,7 +4,7 @@ blueprint: page
 title: Projects
 author: a5337063-feeb-476b-86d0-85dfe861c466
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739901665
+updated_at: 1740059394
 page_builder:
   -
     id: m73bm845
@@ -19,6 +19,7 @@ page_builder:
       - 49280a55-1b2f-4c07-a508-b73e415a9ae3
       - 4bc3688a-3ec3-43db-ad06-3f1b42b6703b
       - 50dcbee2-8319-40eb-809c-95aeb1a499d1
+      - 22c26d60-af22-4181-bc52-5560b7c06866
     type: projects_section
     enabled: true
 seo_noindex: false

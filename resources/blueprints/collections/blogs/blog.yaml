@@ -1,0 +1,80 @@
+title: Blog
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: hero_image
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: 'Hero Image'
+          -
+            handle: content
+            field:
+              remove_empty_nodes: false
+              type: bard
+              display: Content
+              buttons:
+                - h2
+                - h3
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+                - quote
+                - anchor
+                - image
+                - table
+                - code
+                - codeblock
+              container: assets
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: blog_category
+            field:
+              taxonomies:
+                - blog_category
+              type: terms
+              display: 'Blog Category'
+          -
+            handle: blog_tag
+            field:
+              type: terms
+              display: 'Blog Tag'
+              taxonomies:
+                - blog_tags
+          -
+            handle: author
+            field:
+              type: users
+              display: Author
+          -
+            handle: date
+            field:
+              type: date
+              required: true
+              default: now
+              validate:
+                - required

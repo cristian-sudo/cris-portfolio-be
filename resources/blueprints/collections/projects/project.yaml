@@ -54,6 +54,90 @@ tabs:
               type: text
               display: 'RU Description'
               width: 33
+          -
+            handle: more
+            field:
+              remove_empty_nodes: false
+              type: bard
+              display: More
+              container: assets
+              buttons:
+                - h2
+                - h3
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+                - quote
+                - anchor
+                - image
+                - table
+                - code
+                - codeblock
+          -
+            handle: ru_more
+            field:
+              remove_empty_nodes: false
+              type: bard
+              display: 'RU More'
+              container: assets
+              buttons:
+                - h2
+                - h3
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+                - quote
+                - anchor
+                - image
+                - table
+                - code
+                - codeblock
+          -
+            handle: ro_more
+            field:
+              remove_empty_nodes: false
+              type: bard
+              display: 'RO More'
+              container: assets
+              buttons:
+                - h2
+                - h3
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+                - quote
+                - anchor
+                - image
+                - table
+                - code
+                - codeblock
+          -
+            handle: it_more
+            field:
+              remove_empty_nodes: false
+              type: bard
+              display: 'IT More'
+              container: assets
+              buttons:
+                - h2
+                - h3
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+                - quote
+                - anchor
+                - image
+                - table
+                - code
+                - codeblock
   sidebar:
     display: Sidebar
     sections:
