@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739961740
+updated_at: 1740612194
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -13,7 +13,7 @@ page_builder:
   -
     id: m73avaow
     title: '*Elevate* Your *Online* Presence'
-    ru_title: '*Повышайте* свое *онлайн-присутствие*'
+    ru_title: '*Повышайте* свое *онлайн-присутствие*.'
     ro_title: '*Îmbunătățește* Prezența ta *Online*'
     it_title: '*Eleva* la tua *Presenza* Online'
     button_label: '*Contact* me'
