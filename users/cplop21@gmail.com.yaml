@@ -4,8 +4,6 @@ id: a5337063-feeb-476b-86d0-85dfe861c466
 password_hash: $2y$12$/43dJPruPXxsPCJHMQpEfuXT6ck4PNF4Bz4Tq.ltixcKsEB9igkvK
 preferences:
   collections:
-    skills:
-      after_save: continue_editing
     pages:
       after_save: continue_editing
     blogs:

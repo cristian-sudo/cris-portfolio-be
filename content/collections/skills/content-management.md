@@ -4,8 +4,10 @@ blueprint: skill
 title: 'Content Management'
 skills:
   - statamic
+  - prismic
+  - sanity
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739878227
+updated_at: 1740674715
 ro_title: 'RO Content Management'
 it_title: 'IT Content Management'
 ru_title: 'RU Content Management'

@@ -9,8 +9,10 @@ skills:
   - slack
   - jira
   - linux
-  - livewire
-  - tailwindcss
+  - laravel-herd
+  - valet
+  - salesforce
+  - vercel
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739878251
+updated_at: 1740674970
 ---

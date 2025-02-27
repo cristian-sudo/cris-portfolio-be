@@ -6,8 +6,9 @@ skills:
   - symfony
   - laravel
   - nestjs
+  - node
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739878221
+updated_at: 1740674677
 ro_title: 'RO Back-End Frameworks'
 it_title: 'IT Back-End Frameworks'
 ru_title: 'RU Back-End Frameworks'

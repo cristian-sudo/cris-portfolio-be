@@ -4,6 +4,13 @@ blueprint: skill
 title: 'Front-End Development'
 skills:
   - react
+  - nextjs
+  - html
+  - css
+  - livewire
+  - javascript
+  - sveltekit
+  - tailwindcss
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739878241
+updated_at: 1740674925
 ---
