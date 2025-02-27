@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1740612194
+updated_at: 1740668585
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -56,7 +56,7 @@ page_builder:
     ru_title: Навыки
     ro_title: Abilități
     it_title: Competenze
-    image: robot-illustration.webp
+    image: web-dev.jpg
     skills:
       - 42799630-7dfc-46d2-8754-d88512a2a76c
       - 0ae66d4e-99c8-4e75-91e6-8d6d9cf71b6a
