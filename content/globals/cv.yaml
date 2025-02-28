@@ -1,0 +1,150 @@
+title: CV
+data:
+  title: 'Changelog from my journey'
+  ru_title: 'RU Changelog from my journey'
+  it_title: 'IT Changelog from my journey'
+  ro_title: 'RO Changelog from my journey'
+  subtitle: "I've been working on Aceternity for the past 2 years. Here's a timeline of my journey."
+  ru_subtitle: "RU I've been working on Aceternity for the past 2 years. Here's a timeline of my journey."
+  it_subtitle: "IT I've been working on Aceternity for the past 2 years. Here's a timeline of my journey."
+  ro_subtitle: "RO I've been working on Aceternity for the past 2 years. Here's a timeline of my journey."
+  changelog:
+    -
+      id: m7o0g9kc
+      year: '2024'
+      content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'Built and launched Aceternity UI and Aceternity UI Pro from scratch'
+      type: new_set
+      enabled: true
+      images:
+        - adaptavist.png
+        - ai.jpeg
+        - brew.png
+        - ceres.png
+      ru_content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'RU Built and launched Aceternity UI and Aceternity UI Pro from scratch'
+      it_content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'IT Built and launched Aceternity UI and Aceternity UI Pro from scratch'
+      ro_content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'RO Built and launched Aceternity UI and Aceternity UI Pro from scratch'
+    -
+      id: m7o0hoac
+      year: '2023'
+      content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'I usually run out of copy, but when I see content this big, I try to integrate lorem ipsum.'
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'Lorem ipsum is for people who are too lazy to write copy. But we are not. Here are some more example of beautiful designs I built.'
+      images:
+        - eloquent-laravel.png
+        - eloquent.png
+        - laravel-cloud.jpg
+        - laravel-starter-kits.png
+      type: new_set
+      enabled: true
+      ru_content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'RU I usually run out of copy, but when I see content this big, I try to integrate lorem ipsum.'
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'Lorem ipsum is for people who are too lazy to write copy. But we are not. Here are some more example of beautiful designs I built.'
+      it_content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'IT I usually run out of copy, but when I see content this big, I try to integrate lorem ipsum.'
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'Lorem ipsum is for people who are too lazy to write copy. But we are not. Here are some more example of beautiful designs I built.'
+      ro_content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'RO I usually run out of copy, but when I see content this big, I try to integrate lorem ipsum.'
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'Lorem ipsum is for people who are too lazy to write copy. But we are not. Here are some more example of beautiful designs I built.'
+    -
+      id: m7o0i6xl
+      year: '2022'
+      content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'This was a great year'
+      images:
+        - web-dev.jpg
+        - solid-principles.png
+        - side-profile-illustration.webp
+        - robot-illustration.webp
+        - ceres.png
+      type: new_set
+      enabled: true
+      ru_content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'RU This was a great year'
+      it_content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'IT This was a great year'
+      ro_content:
+        -
+          type: paragraph
+          content:
+            -
+              type: text
+              text: 'RO This was a great year'

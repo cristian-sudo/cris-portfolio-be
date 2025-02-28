@@ -1,0 +1,102 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              display: Title
+          -
+            handle: ru_title
+            field:
+              type: text
+              display: 'RU Title'
+              width: 33
+          -
+            handle: it_title
+            field:
+              type: text
+              display: 'IT Title'
+              width: 33
+          -
+            handle: ro_title
+            field:
+              type: text
+              display: 'RO Title'
+              width: 33
+          -
+            handle: subtitle
+            field:
+              type: textarea
+              display: Subtitle
+          -
+            handle: ru_subtitle
+            field:
+              type: textarea
+              display: 'RU Subtitle'
+              width: 33
+          -
+            handle: it_subtitle
+            field:
+              type: text
+              display: 'IT Subtitle'
+              width: 33
+          -
+            handle: ro_subtitle
+            field:
+              type: textarea
+              display: 'RO Subtitle'
+              width: 33
+          -
+            handle: changelog
+            field:
+              type: replicator
+              display: Changelog
+              sets:
+                new_set_group:
+                  display: 'New Set Group'
+                  sets:
+                    new_set:
+                      display: 'New Set'
+                      fields:
+                        -
+                          handle: year
+                          field:
+                            type: text
+                            display: Year
+                        -
+                          handle: content
+                          field:
+                            remove_empty_nodes: false
+                            type: bard
+                            display: Content
+                        -
+                          handle: ru_content
+                          field:
+                            remove_empty_nodes: false
+                            type: bard
+                            display: 'RU Content'
+                            width: 33
+                        -
+                          handle: it_content
+                          field:
+                            remove_empty_nodes: false
+                            type: bard
+                            display: 'IT Content'
+                            width: 33
+                        -
+                          handle: ro_content
+                          field:
+                            remove_empty_nodes: false
+                            type: bard
+                            display: 'RO Content'
+                            width: 33
+                        -
+                          handle: images
+                          field:
+                            container: assets
+                            type: assets
+                            display: Images
