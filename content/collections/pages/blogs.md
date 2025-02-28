@@ -8,9 +8,9 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 en_title: blogs
-ru_title: 'ru blogs'
-ro_title: 'ro blogs'
-it_title: 'it blogs'
+ru_title: блоги
+ro_title: bloguri
+it_title: blog
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1739972566
+updated_at: 1740765321
 ---
