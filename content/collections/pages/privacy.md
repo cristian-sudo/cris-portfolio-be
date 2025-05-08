@@ -8,9 +8,9 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: a5337063-feeb-476b-86d0-85dfe861c466
-updated_at: 1746723023
-en_title: Privacy
-ru_title: Конфиденциальность
-ro_title: Confidențialitate
-it_title: Privacy
+updated_at: 1746723185
+en_title: privacy
+ru_title: kонфиденциальность
+ro_title: confidențialitate
+it_title: privacy
 ---
