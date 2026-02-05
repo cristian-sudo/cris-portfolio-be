@@ -8,6 +8,41 @@ it_subtitle: 'Creazione di soluzioni web scalabili e sicure con competenze in La
 ro_subtitle: 'Crearea de soluții web scalabile și sigure cu expertiză în Laravel, Symfony, React și Node.js'
 changelog:
   -
+    id: ml9zpomj
+    year: '2026'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In 2026, I work as a Senior Full Stack Engineer at Aris, where I own and evolve production systems used by real clients at scale. I focus on building maintainable, secure, and privacy-aware software, taking responsibility from architecture decisions through delivery and long-term support. I graduated with a First Class Honours degree in Computing, reinforcing a strong foundation in software engineering principles alongside hands-on industry experience.'
+    ru_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'В 2026 году я работаю старшим full-stack инженером в компании Aris, где отвечаю за развитие и поддержку продакшн-систем, используемых реальными клиентами в масштабе. Я сосредоточен на создании поддерживаемого, безопасного и ориентированного на приватность программного обеспечения, принимая ответственность от архитектурных решений до внедрения и долгосрочной поддержки. Я окончил обучение по направлению «Вычислительная техника» с дипломом First Class Honours, что укрепило мою теоретическую базу наряду с практическим профессиональным опытом.'
+    it_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Nel 2026 lavoro come Senior Full Stack Engineer presso Aris, dove sono responsabile dell’evoluzione e della manutenzione di sistemi in produzione utilizzati da clienti reali su larga scala. Mi concentro sullo sviluppo di software manutenibile, sicuro e attento alla privacy, seguendo l’intero ciclo di vita del prodotto, dalle decisioni architetturali alla consegna e al supporto a lungo termine. Mi sono laureato in Informatica con First Class Honours, consolidando una solida base teorica affiancata da una significativa esperienza pratica nel settore.'
+    ro_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'În 2026 lucrez ca Senior Full Stack Engineer la Aris, unde sunt responsabil de dezvoltarea și mentenanța sistemelor aflate în producție, utilizate de clienți reali la scară largă. Mă concentrez pe construirea de software ușor de întreținut, sigur și orientat către protecția datelor, acoperind întregul ciclu de viață al produsului, de la deciziile arhitecturale până la livrare și suport pe termen lung. Am absolvit specializarea Informatică cu diplomă First Class Honours, consolidând o bază teoretică solidă alături de experiență practică relevantă.'
+    images:
+      - graduation-picture.png
+    type: new_set
+    enabled: true
+  -
     id: m7oz1d8t
     year: '2025'
     content:
@@ -282,38 +317,3 @@ changelog:
     enabled: true
     images:
       - enrico-fermi.jpg
-  -
-    id: ml9zpomj
-    year: '2026'
-    content:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'In 2026, I work as a Senior Full Stack Engineer at Aris, where I own and evolve production systems used by real clients at scale. I focus on building maintainable, secure, and privacy-aware software, taking responsibility from architecture decisions through delivery and long-term support. I graduated with a First Class Honours degree in Computing, reinforcing a strong foundation in software engineering principles alongside hands-on industry experience.'
-    ru_content:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'В 2026 году я работаю старшим full-stack инженером в компании Aris, где отвечаю за развитие и поддержку продакшн-систем, используемых реальными клиентами в масштабе. Я сосредоточен на создании поддерживаемого, безопасного и ориентированного на приватность программного обеспечения, принимая ответственность от архитектурных решений до внедрения и долгосрочной поддержки. Я окончил обучение по направлению «Вычислительная техника» с дипломом First Class Honours, что укрепило мою теоретическую базу наряду с практическим профессиональным опытом.'
-    it_content:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Nel 2026 lavoro come Senior Full Stack Engineer presso Aris, dove sono responsabile dell’evoluzione e della manutenzione di sistemi in produzione utilizzati da clienti reali su larga scala. Mi concentro sullo sviluppo di software manutenibile, sicuro e attento alla privacy, seguendo l’intero ciclo di vita del prodotto, dalle decisioni architetturali alla consegna e al supporto a lungo termine. Mi sono laureato in Informatica con First Class Honours, consolidando una solida base teorica affiancata da una significativa esperienza pratica nel settore.'
-    ro_content:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'În 2026 lucrez ca Senior Full Stack Engineer la Aris, unde sunt responsabil de dezvoltarea și mentenanța sistemelor aflate în producție, utilizate de clienți reali la scară largă. Mă concentrez pe construirea de software ușor de întreținut, sigur și orientat către protecția datelor, acoperind întregul ciclu de viață al produsului, de la deciziile arhitecturale până la livrare și suport pe termen lung. Am absolvit specializarea Informatică cu diplomă First Class Honours, consolidând o bază teoretică solidă alături de experiență practică relevantă.'
-    images:
-      - graduation-picture.png
-    type: new_set
-    enabled: true
