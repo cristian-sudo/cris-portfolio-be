@@ -6,6 +6,7 @@ preferences:
   collections:
     pages:
       after_save: continue_editing
+      view: tree
     blogs:
       after_save: continue_editing
   taxonomies:

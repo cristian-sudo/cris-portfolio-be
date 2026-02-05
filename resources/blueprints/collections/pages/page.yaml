@@ -88,12 +88,3 @@ tabs:
             field:
               type: text
               display: 'IT Title'
-          -
-            handle: parent
-            field:
-              type: entries
-              collections:
-                - pages
-              max_items: 1
-              listable: false
-              localizable: true

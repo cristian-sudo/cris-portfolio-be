@@ -1,0 +1,319 @@
+title: 'Full Stack Developer'
+ru_title: 'Разработчик Full Stack'
+it_title: 'Sviluppatore Full Stack'
+ro_title: 'Dezvoltator Full Stack'
+subtitle: 'Crafting Scalable and Secure Web Solutions with Expertise in Laravel, Symfony, React, and Node.js'
+ru_subtitle: 'Создание масштабируемых и безопасных веб-решений с использованием Laravel, Symfony, React и Node.js'
+it_subtitle: 'Creazione di soluzioni web scalabili e sicure con competenze in Laravel, Symfony, React e Node.js'
+ro_subtitle: 'Crearea de soluții web scalabile și sigure cu expertiză în Laravel, Symfony, React și Node.js'
+changelog:
+  -
+    id: m7oz1d8t
+    year: '2025'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "In 2025, while continuing to contribute to Brew Digital's dynamic projects, I am on track to complete my BSc (Hons) Computing degree at Regent College London. This year represents the culmination of my academic and professional journey, where I aim to leverage my comprehensive technical expertise, unwavering commitment, and passion for continuous improvement to drive success in challenging environments."
+    ru_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'В 2025 году, продолжая вносить свой вклад в динамичные проекты Brew Digital, я на пути к завершению своей степени бакалавра наук (с отличием) в области вычислительной техники в Regent College London. Этот год представляет собой кульминацию моего академического и профессионального пути, где я стремлюсь использовать свои обширные технические знания, непоколебимую приверженность и страсть к постоянному совершенствованию для достижения успеха в сложных условиях.'
+    it_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Nel 2025, continuando a contribuire ai progetti dinamici di Brew Digital, sono sulla buona strada per completare la mia laurea BSc (Hons) in Computing presso il Regent College di Londra. Quest'anno rappresenta il culmine del mio percorso accademico e professionale, dove intendo sfruttare la mia vasta esperienza tecnica, l'impegno incrollabile e la passione per il miglioramento continuo per guidare il successo in ambienti sfidanti."
+    ro_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'În 2025, continuând să contribui la proiectele dinamice de la Brew Digital, sunt pe cale să îmi finalizez licența BSc (Hons) în Computing la Regent College din Londra. Acest an reprezintă culminarea parcursului meu academic și profesional, unde intenționez să îmi valorific vasta experiență tehnică, angajamentul neclintit și pasiunea pentru îmbunătățirea continuă pentru a conduce succesul în medii provocatoare.'
+    images:
+      - ragile.png
+      - personal_website.png
+      - chatbot.png
+    type: new_set
+    enabled: true
+  -
+    id: m7oz1tzq
+    year: '2024'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "In 2024, I continued my tenure at Brew Digital, further refining my skills and contributions. I focused on enhancing security implementations, including CSP headers, and integrated admin panels using Filament. I implemented real-time features with Livewire and styled interfaces with Tailwind CSS, ensuring efficient interactions through Laravel's Eloquent ORM. My role involved leveraging PHP 8 for high-performance backend development and managing NoSQL database solutions with Couchbase, showcasing my multifaceted experience across a spectrum of technologies."
+    ru_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'В 2024 году я продолжал работать в Brew Digital, еще больше совершенствуя свои навыки и вклад. Я сосредоточился на улучшении мер безопасности, включая заголовки CSP, и интеграции панелей администрирования с использованием Filament. Я реализовал функции в реальном времени с помощью Livewire и стилизовал интерфейсы с помощью Tailwind CSS, обеспечивая эффективное взаимодействие через Eloquent ORM Laravel. Моя роль включала использование PHP 8 для высокопроизводительной разработки серверной части и управление решениями для баз данных NoSQL с Couchbase, демонстрируя мой многогранный опыт в различных технологиях.'
+    it_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Nel 2024, ho continuato la mia carriera presso Brew Digital, affinando ulteriormente le mie competenze e contributi. Mi sono concentrato sul miglioramento delle implementazioni di sicurezza, inclusi gli header CSP, e ho integrato pannelli di amministrazione utilizzando Filament. Ho implementato funzionalità in tempo reale con Livewire e stilizzato le interfacce con Tailwind CSS, garantendo interazioni efficienti attraverso l'ORM Eloquent di Laravel. Il mio ruolo ha incluso l'utilizzo di PHP 8 per lo sviluppo backend ad alte prestazioni e la gestione di soluzioni di database NoSQL con Couchbase, dimostrando la mia esperienza multifacetica in un ampio spettro di tecnologie."
+    ro_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'În 2024, mi-am continuat cariera la Brew Digital, perfecționându-mi și mai mult abilitățile și contribuțiile. M-am concentrat pe îmbunătățirea implementărilor de securitate, inclusiv a headerelor CSP, și am integrat panouri de administrare utilizând Filament. Am implementat funcționalități în timp real cu Livewire și am stilizat interfețele cu Tailwind CSS, asigurând interacțiuni eficiente prin ORM-ul Eloquent al Laravel. Rolul meu a inclus utilizarea PHP 8 pentru dezvoltarea backend de înaltă performanță și gestionarea soluțiilor de baze de date NoSQL cu Couchbase, demonstrând experiența mea multifacetă într-un spectru larg de tehnologii.'
+    images:
+      - ceres.png
+      - roadmap.png
+    type: new_set
+    enabled: true
+  -
+    id: m7oz2bo1
+    year: '2023'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Starting December 2022 and continuing through 2023, I joined Brew Digital as a Full Stack Developer. I immersed myself in a diverse technology stack, significantly contributing to various projects. I orchestrated backend solutions with Laravel, crafted dynamic front-end experiences using React, and implemented server-side applications with Node.js. My role involved integrating payment gateways, engaging in client communications, and contributing to significant projects like the rebuilding of the Ceres.org site. My commitment to test-driven development and security implementations further solidified my expertise in delivering impactful solutions in dynamic environments.'
+    ru_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Начиная с декабря 2022 года и продолжая в 2023 году, я присоединился к Brew Digital в качестве разработчика полного цикла. Я погрузился в разнообразный технологический стек, значительно способствуя различным проектам. Я организовывал серверные решения с помощью Laravel, создавал динамичные интерфейсы с использованием React и внедрял серверные приложения с Node.js. Моя роль включала интеграцию платежных шлюзов, взаимодействие с клиентами и участие в значительных проектах, таких как перестройка сайта Ceres.org. Моя приверженность разработке, управляемой тестами, и реализации мер безопасности еще больше укрепили мою экспертизу в предоставлении значимых решений в динамичных средах.'
+    it_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "A partire da dicembre 2022 e continuando per tutto il 2023, mi sono unito a Brew Digital come sviluppatore full stack. Mi sono immerso in uno stack tecnologico diversificato, contribuendo significativamente a vari progetti. Ho orchestrato soluzioni backend con Laravel, creato esperienze frontend dinamiche utilizzando React e implementato applicazioni server-side con Node.js. Il mio ruolo comprendeva l'integrazione di gateway di pagamento, l'interazione con i clienti e la partecipazione a progetti significativi come la ricostruzione del sito Ceres.org. Il mio impegno nello sviluppo guidato dai test e nell'implementazione della sicurezza ha ulteriormente consolidato la mia competenza nel fornire soluzioni impattanti in ambienti dinamici."
+    ro_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Începând cu decembrie 2022 și continuând pe tot parcursul anului 2023, m-am alăturat echipei Brew Digital ca dezvoltator full stack. M-am imersat într-un stack tehnologic divers, contribuind semnificativ la diverse proiecte. Am orchestrat soluții backend cu Laravel, am creat experiențe frontend dinamice utilizând React și am implementat aplicații server-side cu Node.js. Rolul meu a inclus integrarea de gateway-uri de plată, interacțiunea cu clienții și participarea la proiecte semnificative precum reconstrucția site-ului Ceres.org. Angajamentul meu față de dezvoltarea ghidată de teste și implementarea securității a consolidat și mai mult competența mea în furnizarea de soluții impactante în medii dinamice.'
+    images:
+      - adaptavist.png
+      - brew.png
+    type: new_set
+    enabled: true
+  -
+    id: m7oz2i7z
+    year: '2022'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In 2022, I transitioned to a Backend Developer role at Itransition, where I spearheaded major projects using cutting-edge technologies such as NestJs, Symfony, Laravel, and NodeJs. This year was marked by my extensive experience in test-driven development, ensuring the robustness and reliability of the codebase. I excelled in crafting RESTful APIs and managing multiple projects concurrently, demonstrating my adaptability and proficiency in leveraging diverse technologies to deliver high-quality solutions.'
+    ru_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'В 2022 году я перешел на должность разработчика серверной части в Itransition, где возглавлял крупные проекты, используя передовые технологии, такие как NestJs, Symfony, Laravel и NodeJs. Этот год был отмечен моим обширным опытом в разработке, управляемой тестами, обеспечивая надежность и устойчивость кода. Я преуспел в создании RESTful API и управлении несколькими проектами одновременно, демонстрируя свою адаптивность и умение использовать разнообразные технологии для предоставления высококачественных решений.'
+    it_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Nel 2022, sono passato al ruolo di sviluppatore backend presso Itransition, dove ho guidato importanti progetti utilizzando tecnologie all'avanguardia come NestJs, Symfony, Laravel e NodeJs. Quest'anno è stato caratterizzato dalla mia vasta esperienza nello sviluppo guidato dai test, garantendo la robustezza e l'affidabilità del codice. Ho eccelso nella creazione di API RESTful e nella gestione di più progetti contemporaneamente, dimostrando la mia adattabilità e competenza nel sfruttare tecnologie diverse per fornire soluzioni di alta qualità."
+    ro_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'În 2022, am trecut la rolul de dezvoltator backend la Itransition, unde am condus proiecte majore utilizând tehnologii de ultimă generație precum NestJs, Symfony, Laravel și NodeJs. Acest an a fost caracterizat de experiența mea vastă în dezvoltarea ghidată de teste, asigurând robustezitatea și fiabilitatea codului. Am excelat în crearea de API-uri RESTful și în gestionarea mai multor proiecte simultan, demonstrând adaptabilitatea și competența mea în valorificarea tehnologiilor diverse pentru a oferi soluții de înaltă calitate.'
+    images:
+      - ai-answer-engine.png
+      - itansition.jpg
+    type: new_set
+    enabled: true
+  -
+    id: m7oz2tp1
+    year: '2021'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In 2021, while continuing my role at Studio Mab21 until November, I also began pursuing a part-time BSc (Hons) Computing degree at Regent College London. This dual focus on education and professional development enabled me to deepen my technical expertise. I applied my growing knowledge to contribute effectively to web development projects, further honing my skills in PHP and ReactJs.'
+    ru_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'В 2021 году, продолжая работать в Studio Mab21 до ноября, я также начал изучать вычислительную технику на заочной основе в Regent College London. Это двойное внимание к образованию и профессиональному развитию позволило мне углубить свои технические знания. Я применял свои растущие знания для эффективного участия в проектах веб-разработки, совершенствуя свои навыки в PHP и ReactJs.'
+    it_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Nel 2021, mentre continuavo il mio ruolo presso Studio Mab21 fino a novembre, ho anche iniziato a frequentare un corso di laurea in Computing part-time presso il Regent College di Londra. Questo doppio focus su istruzione e sviluppo professionale mi ha permesso di approfondire le mie conoscenze tecniche. Ho applicato le mie conoscenze in crescita per contribuire efficacemente ai progetti di sviluppo web, affinando ulteriormente le mie competenze in PHP e ReactJs.'
+    ro_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'În 2021, în timp ce îmi continuam rolul la Studio Mab21 până în noiembrie, am început să urmez un curs de licență în Computing part-time la Regent College din Londra. Acest dublu focus pe educație și dezvoltare profesională mi-a permis să îmi aprofundeze cunoștințele tehnice. Am aplicat cunoștințele acumulate pentru a contribui eficient la proiectele de dezvoltare web, perfecționându-mi în continuare abilitățile în PHP și ReactJs.'
+    type: new_set
+    enabled: true
+    images:
+      - beautycall.jpg
+      - bolton.jpg
+  -
+    id: m7oz3c8m
+    year: '2020'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Throughout 2020, I continued to expand my technical repertoire at Studio Mab21. I transitioned to using ReactJs for frontend development, which allowed me to create dynamic and responsive applications. My work involved developing tailored applications for clients and incorporating innovative features into existing projects. This year was pivotal in enhancing my skills in ReactJs, particularly in utilizing components, APIs, hooks, and routing.'
+    ru_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'В течение 2020 года я продолжал расширять свой технический арсенал в Studio Mab21. Я перешел на использование ReactJs для разработки интерфейса, что позволило мне создавать динамичные и отзывчивые приложения. Моя работа включала разработку приложений, адаптированных для клиентов, и внедрение инновационных функций в существующие проекты. Этот год был ключевым в улучшении моих навыков в ReactJs, особенно в использовании компонентов, API, хуков и маршрутизации.'
+    it_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Nel corso del 2020, ho continuato ad ampliare il mio repertorio tecnico presso Studio Mab21. Sono passato all'uso di ReactJs per lo sviluppo frontend, il che mi ha permesso di creare applicazioni dinamiche e reattive. Il mio lavoro consisteva nello sviluppare applicazioni su misura per i clienti e nell'incorporare funzionalità innovative in progetti esistenti. Quest'anno è stato fondamentale per migliorare le mie competenze in ReactJs, in particolare nell'utilizzo di componenti, API, hook e routing."
+    ro_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Pe parcursul anului 2020, am continuat să îmi extind repertoriul tehnic la Studio Mab21. Am trecut la utilizarea ReactJs pentru dezvoltarea frontend, ceea ce mi-a permis să creez aplicații dinamice și responsive. Munca mea a constat în dezvoltarea de aplicații personalizate pentru clienți și încorporarea de funcționalități inovatoare în proiectele existente. Acest an a fost esențial pentru îmbunătățirea abilităților mele în ReactJs, în special în utilizarea componentelor, API-urilor, hook-urilor și rutării.'
+    type: new_set
+    enabled: true
+    images:
+      - studiomab21.jpg
+  -
+    id: m7oz3ot5
+    year: '2019'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In 2019, I graduated from Enrico Fermi College in Venice with a perfect score of 100/100, becoming the first foreign person to achieve this distinction in Venice. This accomplishment was recognized in the local newspaper, highlighting my dedication and academic excellence. During my time in Venice, I developed a keen interest in art, which significantly influenced my design skills and contributed to my overall cultural awareness.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In the same year, I began my professional journey as a Full Stack Web Developer at Studio Mab21, an Italy-based company known for its expertise in website and web application development. I started working on solo projects, initially focusing on PHP for backend development. This year laid the groundwork for my proficiency in integrating backend functionalities with SQL-based APIs, a crucial skill that would serve me well in future projects.'
+    ru_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'В 2019 году я окончил колледж Энрико Ферми в Венеции с отличием, получив 100 из 100 баллов, став первым иностранцем, достигшим этого результата в Венеции. Это достижение было отмечено в местной газете, подчеркнув мою преданность и академическое превосходство. Во время пребывания в Венеции я развил интерес к искусству, что значительно повлияло на мои дизайнерские навыки и способствовало общему культурному развитию.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'В том же году я начал свою профессиональную карьеру в качестве веб-разработчика полного цикла в Studio Mab21, итальянской компании, известной своим мастерством в разработке веб-сайтов и веб-приложений. Я начал работать над индивидуальными проектами, первоначально сосредоточившись на PHP для разработки серверной части. Этот год заложил основу для моей компетентности в интеграции серверных функций с API на основе SQL, что стало важным навыком для будущих проектов.'
+    it_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Nel 2019, mi sono diplomato al Collegio Enrico Fermi di Venezia con il massimo dei voti, 100/100, diventando la prima persona straniera a raggiungere questo risultato a Venezia. Questo traguardo è stato riconosciuto nel giornale locale, sottolineando la mia dedizione e il mio eccellente rendimento accademico. Durante il mio soggiorno a Venezia, ho sviluppato un forte interesse per l'arte, che ha influenzato notevolmente le mie capacità di design e ha contribuito alla mia consapevolezza culturale complessiva."
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Nello stesso anno, ho iniziato il mio percorso professionale come sviluppatore web full stack presso Studio Mab21, un'azienda italiana nota per la sua esperienza nello sviluppo di siti web e applicazioni web. Ho iniziato a lavorare su progetti individuali, inizialmente concentrandomi su PHP per lo sviluppo del backend. Quest'anno ha posto le basi per la mia competenza nell'integrare funzionalità di backend con API basate su SQL, una competenza cruciale che mi sarebbe stata utile nei progetti futuri."
+    ro_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'În 2019, am absolvit Colegiul Enrico Fermi din Veneția cu nota maximă, 100/100, devenind prima persoană străină care a atins acest rezultat în Veneția. Această realizare a fost recunoscută în ziarul local, subliniind devotamentul meu și performanța academică excelentă. În timpul șederii mele în Veneția, am dezvoltat un interes puternic pentru artă, care a influențat semnificativ abilitățile mele de design și a contribuit la conștientizarea mea culturală generală.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'În același an, am început parcursul meu profesional ca dezvoltator web full stack la Studio Mab21, o companie italiană cunoscută pentru expertiza sa în dezvoltarea de site-uri web și aplicații web. Am început să lucrez la proiecte individuale, concentrându-mă inițial pe PHP pentru dezvoltarea backend. Acest an a pus bazele competenței mele în integrarea funcționalităților de backend cu API-uri bazate pe SQL, o abilitate crucială care mi-ar fi de folos în proiectele viitoare.'
+    type: new_set
+    enabled: true
+    images:
+      - enrico-fermi.jpg
+  -
+    id: ml9zpomj
+    year: '2026'
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In 2026, I work as a Senior Full Stack Engineer at Aris, where I own and evolve production systems used by real clients at scale. I focus on building maintainable, secure, and privacy-aware software, taking responsibility from architecture decisions through delivery and long-term support. I graduated with a First Class Honours degree in Computing, reinforcing a strong foundation in software engineering principles alongside hands-on industry experience.'
+    ru_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'В 2026 году я работаю старшим full-stack инженером в компании Aris, где отвечаю за развитие и поддержку продакшн-систем, используемых реальными клиентами в масштабе. Я сосредоточен на создании поддерживаемого, безопасного и ориентированного на приватность программного обеспечения, принимая ответственность от архитектурных решений до внедрения и долгосрочной поддержки. Я окончил обучение по направлению «Вычислительная техника» с дипломом First Class Honours, что укрепило мою теоретическую базу наряду с практическим профессиональным опытом.'
+    it_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Nel 2026 lavoro come Senior Full Stack Engineer presso Aris, dove sono responsabile dell’evoluzione e della manutenzione di sistemi in produzione utilizzati da clienti reali su larga scala. Mi concentro sullo sviluppo di software manutenibile, sicuro e attento alla privacy, seguendo l’intero ciclo di vita del prodotto, dalle decisioni architetturali alla consegna e al supporto a lungo termine. Mi sono laureato in Informatica con First Class Honours, consolidando una solida base teorica affiancata da una significativa esperienza pratica nel settore.'
+    ro_content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'În 2026 lucrez ca Senior Full Stack Engineer la Aris, unde sunt responsabil de dezvoltarea și mentenanța sistemelor aflate în producție, utilizate de clienți reali la scară largă. Mă concentrez pe construirea de software ușor de întreținut, sigur și orientat către protecția datelor, acoperind întregul ciclu de viață al produsului, de la deciziile arhitecturale până la livrare și suport pe termen lung. Am absolvit specializarea Informatică cu diplomă First Class Honours, consolidând o bază teoretică solidă alături de experiență practică relevantă.'
+    images:
+      - graduation-picture.png
+    type: new_set
+    enabled: true
